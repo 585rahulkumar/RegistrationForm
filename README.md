@@ -1,1 +1,1 @@
-This is a simple web project
+A mini webpage built in the field of Web Development using HTML, CSS, Javascript, and PHP.
